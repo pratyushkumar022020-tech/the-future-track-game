@@ -1,0 +1,6 @@
+{
+  "name": "IronVerse 3D: Gym Life Simulator",
+  "description": "A next-generation 3D fitness life simulator featuring realistic biomechanics workouts, dynamic body transformation, AI NPCs, rivalries, competitions, nutrition, and gym empire management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
